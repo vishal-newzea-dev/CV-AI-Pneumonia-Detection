@@ -1,0 +1,15 @@
+# Core Deep Learning Libraries
+torch
+torchvision
+timm
+
+# Application & Visualization
+streamlit
+matplotlib
+seaborn
+opencv-python
+
+# Data Handling & Utilities
+numpy
+scikit-learn
+Pillow
