@@ -24,5 +24,5 @@
 - Run the application from your terminal with the command: streamlit run app.py
 
 ### Developer Notes
-- The core skills demonstrated in this project—fine-tuning state-of-the-art vision models, implementing explainability, and deploying a full-stack data science and AI applications.
+- The core skills demonstrated in this project: fine-tuning state-of-the-art vision models, implementing explainability, and deploying a full-stack data science and AI applications.
 
