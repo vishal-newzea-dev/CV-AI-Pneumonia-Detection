@@ -120,7 +120,6 @@ if uploaded_file is not None:
             st.error(f"Pneumonia Detected (Confidence: {prob:.2%})", icon="⚠️")
         else:
             st.success(f"Normal (Confidence: {1-prob:.2%})", icon="✅")
-        st.write("*(Model prediction will appear here)*")
 
     with col2: 
         st.subheader("Model's Focus (Heatmap):")
