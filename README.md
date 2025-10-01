@@ -16,6 +16,9 @@
 - Explainable AI (XAI) Heatmaps: Utilizes Grad-CAM to generate intuitive heatmaps, providing visual evidence of which lung regions the model focused on for its diagnosis.
 - Rapid Triage Capability: Analyzes an X-ray in seconds, creating the potential to prioritize critical cases in a clinical workflow and reduce patient wait times from hours to minutes.
 
+![ManuSpec AI diagnosing pneumonia](manuspec-pneumonia-1.png)
+![ManuSpec AI diagnosing a normal x-ray](manuspec-pneumonia-normal-1.png)
+
 ### Instructions to Run (GitHub)
 
 - Ensure you have a compatible Python environment with all dependencies from requirements.txt installed.
@@ -26,3 +29,6 @@
 ### Developer Notes
 - The core skills demonstrated in this project: fine-tuning state-of-the-art vision models, implementing explainability, and deploying a full-stack data science and AI applications.
 
+![Classification Report](data_classification_report.png)
+![Confusion Matrix](confusion_matrix.png)
+![Grad-CAM Explainability Visualization](heatmap.png)
