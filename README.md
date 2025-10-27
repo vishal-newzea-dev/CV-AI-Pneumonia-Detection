@@ -1,4 +1,4 @@
-# ManuSpec Medical AI Pneumonia Detection (Computer Vision)
+# AI Pneumonia Detection (Computer Vision)
 
 ## Description
 
